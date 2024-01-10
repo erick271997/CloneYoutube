@@ -1,5 +1,14 @@
 <img width="1277" alt="Captura de Pantalla 2024-01-09 a la(s) 9 19 55 p m" src="https://github.com/erick271997/CloneYoutube/assets/105877877/58004f0d-2b40-4fc1-ba74-6af33726b0d1">
+
+
+
+
+<img width="1277" alt="Captura de Pantalla 2024-01-09 a la(s) 9 24 44 p m" src="https://github.com/erick271997/CloneYoutube/assets/105877877/89692c21-486d-4ed3-808e-74f73059b028">
+
 ### `npm run build`
+
+
+
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
